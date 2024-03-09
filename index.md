@@ -8,3 +8,7 @@
   key2: "value2"
 }
 ```
+
+- [ ] Finish reading the steps
+- [ ] Complete the steps
+- [ ] Check out outcome
